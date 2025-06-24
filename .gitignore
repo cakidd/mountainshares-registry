@@ -1,3 +1,29 @@
 # Temporary files
 *.tmp
 *.log
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+.DS_Store
+
+# Backup directories
+backup_*/
+
+# Development artifacts
+node_modules/
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db

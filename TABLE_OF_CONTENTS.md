@@ -1,60 +1,73 @@
 # MountainShares Registry - Complete Table of Contents
 
-## 📋 Executive Documentation (Investor-Ready)
-- **[Investor Executive Summary](INVESTOR_EXECUTIVE_SUMMARY.md)** - $50M+ market opportunity overview
-- **[Contract Discovery Report](CONTRACT_DISCOVERY_REPORT.md)** - Complete 2,000+ contract ecosystem analysis
-- **[Professional Impact Documentation](PROFESSIONAL_IMPACT_DOCUMENTATION.md)** - Academic and humanitarian review
+## 📚 Chapter-Based Documentation Structure
 
-## 📖 Core Documentation
-- **[README.md](README.md)** - Main project overview and comprehensive ecosystem introduction
-- **[COMPLETE_REGISTRY_BOOK.md](COMPLETE_REGISTRY_BOOK.md)** - 320-page detailed technical documentation
+### **Part I: Foundation and Infrastructure**
+- **[Chapter 1: Executive Summary and Investment Overview](README.md#chapter-1-executive-summary-and-investment-overview)**
+  - Investment highlights and system overview
+  - Verified technical capabilities
+  - Market opportunity analysis
 
-## 📚 Detailed Chapter Documentation
+- **[Chapter 2: Core Smart Contract Infrastructure](README.md#chapter-2-core-smart-contract-infrastructure)**
+  - All 5 verified contracts with Arbiscan links
+  - Technical specifications and capabilities
+  - Democratic governance wallet distribution
 
-### Foundation Chapters (Original Documentation)
-- **[Chapter 1: Foundation Infrastructure](COMPLETE_REGISTRY_BOOK.md#chapter-1)** - Core smart contract deployment
-- **[Chapter 2: Democratic Governance](COMPLETE_REGISTRY_BOOK.md#chapter-2)** - Community-controlled systems
-- **[Chapter 3: Payment Integration](COMPLETE_REGISTRY_BOOK.md#chapter-3)** - Stripe and mainstream adoption
-- **[Chapter 4: Documentation Standards](COMPLETE_REGISTRY_BOOK.md#chapter-4)** - Registry and verification systems
+- **[Chapter 3: Payment Processing and Integration Systems](README.md#chapter-3-payment-processing-and-integration-systems)**
+  - Stripe integration architecture
+  - MetaMask and Web3 connectivity
+  - Dual payment pathway implementation
 
-### Expanded Ecosystem Chapters (New Comprehensive Coverage)
-- **[Chapter 5: Business Integration Ecosystem](CHAPTER_5_BUSINESS_INTEGRATION.md)** - 400+ corporate partnership contracts
-- **[Chapter 6: Regional Deployment Architecture](CHAPTER_6_REGIONAL_DEPLOYMENT.md)** - 600+ county-specific implementations
-- **[Chapter 7: User Experience Infrastructure](CHAPTER_7_USER_EXPERIENCE.md)** - 500+ customer-facing systems
-- **[Chapter 8: Development & Operations Suite](CHAPTER_8_DEVELOPMENT_OPERATIONS.md)** - 500+ technical infrastructure
-- **[Chapter 9: Economic Impact & Sustainability](CHAPTER_9_ECONOMIC_IMPACT.md)** - Financial analysis and projections
+### **Part II: Comprehensive System Architecture**
+- **[Chapter 4: Business Integration Framework](README.md#chapter-4-business-integration-framework)**
+  - Local commerce integration (150+ contracts)
+  - Corporate partnership architecture (100+ contracts)
+  - Supply chain integration systems (150+ contracts)
 
-## 🔍 Reference Materials & Indexes
-- **[Contract Indexes](COMPLETE_REGISTRY_BOOK.md#indexes)** - Alphabetical and chronological contract listings
-- **[Alphabetical Index](COMPLETE_REGISTRY_BOOK.md#alphabetical-index)** - Contract lookup by name
-- **[Chronological Index](COMPLETE_REGISTRY_BOOK.md#chronological-index)** - Contract deployment timeline
+- **[Chapter 5: Regional Deployment and Governance](README.md#chapter-5-regional-deployment-and-governance)**
+  - 55 West Virginia county coverage strategy
+  - NOAA weather integration system
+  - Multi-level democratic governance
 
-## 🌐 Live Documentation Access
+- **[Chapter 6: User Experience and Community Systems](README.md#chapter-6-user-experience-and-community-systems)**
+  - Mobile and web application backend (200+ contracts)
+  - Customer onboarding systems (150+ contracts)
+  - Community management infrastructure (150+ contracts)
+
+### **Part III: Technical Excellence and Market Position**
+- **[Chapter 7: Development Standards and Security](README.md#chapter-7-development-standards-and-security)**
+  - Layer 2 deployment efficiency
+  - Professional development workflow
+  - Comprehensive security framework
+
+- **[Chapter 8: Market Opportunity and Business Model](README.md#chapter-8-market-opportunity-and-business-model)**
+  - $50M+ market analysis
+  - Revenue model architecture
+  - Competitive landscape assessment
+
+- **[Chapter 9: Investment Proposition and Risk Assessment](README.md#chapter-9-investment-proposition-and-risk-assessment)**
+  - Series A funding requirements ($3M)
+  - Risk mitigation strategies
+  - Investment timeline and milestones
+
+### **Part IV: Implementation and Future Vision**
+- **[Chapter 10: Launch Strategy and Timeline](README.md#chapter-10-launch-strategy-and-timeline)**
+  - Immediate launch capabilities (0-3 months)
+  - Expansion phase planning (3-12 months)
+  - Growth phase strategy (1-3 years)
+
+- **[Chapter 11: Conclusion and Next Steps](README.md#chapter-11-conclusion-and-next-steps)**
+  - Technical achievements summary
+  - Investment proposition overview
+  - Community impact vision
+
+## 🔗 Supporting Documentation
+- **[Technical Specifications](docs/TECHNICAL_SPECIFICATIONS.md)** - Detailed contract and API information
+- **[Deployment Scripts](scripts/)** - Automation tools for development workflow
+- **[Contract Verification](scripts/verify_contracts.sh)** - Automated contract verification
+
+## 🌐 Live Resources
 - **[GitHub Repository](https://github.com/cakidd/mountainshares-registry)** - Complete source code and documentation
 - **[GitHub Pages](https://cakidd.github.io/mountainshares-registry/)** - Live documentation website
-- **[Professional Presentation](https://cakidd.github.io/mountainshares-registry/)** - Public accessibility with institutional standards
-
-## 📊 Contract Categories Overview
-
-### ✅ Core Foundation (5 contracts - 100% documented)
-All verified on Arbitrum One with complete technical documentation
-
-### 🏢 Business Integration (400+ contracts)
-Corporate partnerships, B2B systems, enterprise security, supply chain integration
-
-### 🏛️ Regional Deployment (600+ contracts)  
-55 West Virginia counties, local governance, cultural preservation, emergency response
-
-### 👥 User Experience (500+ contracts)
-Mobile applications, customer onboarding, wallet integration, support systems
-
-### ⚙️ Development Operations (500+ contracts)
-Testing environments, security monitoring, performance optimization, CI/CD infrastructure
-
-## 🎯 Documentation Quality Standards
-- **100% Verified Information**: No fictional examples, only blockchain-confirmed data
-- **Narrative Context**: Rich storytelling explaining community values and blockchain benefits
-- **Technical Accuracy**: Industry-standard documentation comparable to major DeFi protocols
-- **Academic Quality**: Suitable for humanitarian review and institutional analysis
-- **Investor Ready**: Professional presentation meeting Series A funding requirements
+- **[Arbiscan Explorer](https://arbiscan.io/)** - Contract verification and blockchain data
 
