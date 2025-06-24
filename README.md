@@ -5,7 +5,7 @@
 [![GitHub Repository](https://img.shields.io/badge/GitHub-mountainshares--registry-blue?logo=github)](https://github.com/cakidd/mountainshares-registry)
 [![Live Documentation](https://img.shields.io/badge/Documentation-Live-green)](https://cakidd.github.io/mountainshares-registry/)
 [![Arbitrum One](https://img.shields.io/badge/Network-Arbitrum%20One-orange)](https://arbiscan.io/)
-[![Contract Verification](https://img.shields.io/badge/Contracts-Verified-success)](https://arbiscan.io/address/0xE8A9c6fFE6b2344147D886EcB8608C5F7863B20D)
+[![Contract Verification](https://img.shields.io/badge/Contracts-Verified-success)](https://arbiscan.io/address/0xF36Ebf89DF6C7ACdA6F98932Dc6804E833D1eFA1)
 
 ---
 
@@ -66,7 +66,7 @@ MountainShares represents a **fully developed, pre-launch digital currency ecosy
 
 | Metric | Value | Verification |
 |--------|--------|-------------|
-| **Core Contracts Deployed** | 5 | [Verified on Arbiscan](https://arbiscan.io/address/0xE8A9c6fFE6b2344147D886EcB8608C5F7863B20D) |
+| **Core Contracts Deployed** | 5 | [Verified on Arbiscan](https://arbiscan.io/address/0xF36Ebf89DF6C7ACdA6F98932Dc6804E833D1eFA1) |
 | **Total System Architecture** | 2,000+ contracts | Architected and ready for deployment |
 | **Deployment Cost** | $1.50 | Layer 2 efficiency proven |
 | **Market Opportunity** | $50M+ | Rural economic development sector |
@@ -78,7 +78,7 @@ MountainShares represents a **fully developed, pre-launch digital currency ecosy
 ## Chapter 2: Core Smart Contract Infrastructure
 
 ### 2.1 MountainShares Token Contract
-**Address**: [`0xE8A9c6fFE6b2344147D886EcB8608C5F7863B20D`](https://arbiscan.io/address/0xE8A9c6fFE6b2344147D886EcB8608C5F7863B20D)
+**Address**: [`0xF36Ebf89DF6C7ACdA6F98932Dc6804E833D1eFA1`](https://arbiscan.io/address/0xF36Ebf89DF6C7ACdA6F98932Dc6804E833D1eFA1)
 **Status**: ✅ Deployed and Verified | **Network**: [Arbitrum One](https://arbitrum.io/) (ChainID: 42161)
 
 The foundational ERC-20 community currency implementing [OpenZeppelin standards](https://openzeppelin.com/contracts/) with governance capabilities. This contract has been successfully deployed and verified, demonstrating our technical capability to execute complex blockchain infrastructure.
@@ -468,4 +468,11 @@ MountainShares demonstrates that blockchain technology can serve community value
 - **Contract Verification**: All core addresses verifiable on Arbiscan
 
 **Investment Disclaimer**: This documentation presents a complete, pre-launch system with verified smart contract infrastructure and developed payment processing capabilities. Financial projections represent potential outcomes based on market analysis and are not guaranteed results. All technical specifications and contract addresses are verified and accurate. Investment decisions should be made based on comprehensive due diligence and professional financial advice.
+
+
+
+## First Real Transaction
+**Historic Achievement**: Carrie A. Kidd completed the first MountainShares purchase of $1.35 on June 18, 2025, demonstrating the system's operational capability.
+
+**Actual Deployed Contract**: [0xF36Ebf89DF6C7ACdA6F98932Dc6804E833D1eFA1](https://arbiscan.io/address/0xF36Ebf89DF6C7ACdA6F98932Dc6804E833D1eFA1)
 
